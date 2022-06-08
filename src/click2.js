@@ -1,0 +1,1 @@
+export const click2 = () => console.log('test test aywa')
